@@ -1,0 +1,11 @@
+
+1  <|DOCTYPE html>
+2  <html>
+3  <head>
+4       <title>KHANAWALI</title> KITCHEN
+5  </head>
+6  <body>
+7       <h1>Welcome To Khanawali</h1>
+8  <p>Healthy Food Shop.</p> 
+9  </body>
+10  </html>
